@@ -1,3 +1,7 @@
+/*
+Ref: http://www.creativepulse.gr/en/blog/2014/restful-api-requests-using-qt-cpp-for-linux-mac-osx-ms-windows
+*/
+
 #include "httprequestworker.h"
 #include <QDateTime>
 #include <QUrl>
