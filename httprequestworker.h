@@ -1,3 +1,7 @@
+/*
+Ref: http://www.creativepulse.gr/en/blog/2014/restful-api-requests-using-qt-cpp-for-linux-mac-osx-ms-windows
+*/
+
 #ifndef HTTPREQUESTWORKER_H
 #define HTTPREQUESTWORKER_H
 
